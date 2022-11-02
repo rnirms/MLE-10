@@ -91,7 +91,7 @@ If you have finished the setup, go directly to step 12.
      git push -u main main
      ```
 
-12. OPTIONAL: If you've already cloned the MLE-8 repository - feel free to pull the recent changes by `cd`ing into the directory that contains the MLE-8 repo, and running this command. Be sure to return to the parent directory before moving on! (`cd ..`)
+12. OPTIONAL: If you've already cloned the MLE-10 repository - feel free to pull the recent changes by `cd`ing into the directory that contains the MLE-10 repo, and running this command. Be sure to return to the parent directory before moving on! (`cd ..`)
      
      ```console
       git pull origin main
