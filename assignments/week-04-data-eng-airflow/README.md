@@ -23,7 +23,7 @@ At the end of this session, you will know how to
     ```
     conda activate py39_12
     ```
-2. install the required packages under the current directory: `{Your Local Directory}/MLE-8/assignments/eda-walmart-sales/`
+2. install the required packages under the current directory: `{Your Local Directory}/MLE-10/assignments/eda-walmart-sales/`
     ```
     pip install -r requirements.txt
     ```
@@ -31,7 +31,7 @@ At the end of this session, you will know how to
     ```
     jupyter notebook # or jupyter lab
     ```
-4. Run notebook [imports](nb/imports.ipynb) and make sure no error messages are displayed when importing the packages. 
+4. Run notebook [imports](prework/imports.ipynb) and make sure no error messages are displayed when importing the packages. 
 
 ## Background
 Please review the weekly narrative [here](https://www.notion.so/Week-4-Data-Engineering-c6c3e2557af8417f93869d1415100eb4)
