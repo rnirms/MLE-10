@@ -57,4 +57,4 @@ If you are up for a challenge, to run the notebook locally, follow instructions:
 - Windows [Reference](https://sparkbyexamples.com/pyspark/how-to-install-and-run-pyspark-on-windows/). 
 
 ## Background
-Please review the weekly narrative [here](https://www.notion.so/Week-5-Big-Data-and-AI-76bc0670bbe5431d90efab0d137716f3)
+Please review the weekly narrative [here](https://www.notion.so/Week-5-Big-Data-and-AI-1782ced6eeb8435d8e0094513844ce4d)
