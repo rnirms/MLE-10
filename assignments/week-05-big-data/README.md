@@ -25,7 +25,7 @@ Note: It is NOT the same as Free Trial. Free trial lasts 14 days and Databricks 
 ### Option II: Google CoLab
 If the first option takes too long, one alternative is to use Google CoLab. Following this [Medium article](https://colab.research.google.com/drive/1jU3IkSTKbB6iHcHr9JYbfp-W0zTRgFWt?usp=sharing) to the section **Get coding**. 
 
-Test it by running this [notebook](https://colab.research.google.com/drive/1qP0y-ZVxFTlPUYBo_ZwRhq2p53Be5RSQ?usp=sharing) in Google Colab.
+Test it by running this [notebook](https://colab.research.google.com/drive/1jU3IkSTKbB6iHcHr9JYbfp-W0zTRgFWt?usp=sharing) in Google Colab.
 
 For the live session, upload the notebooks under nb folder to your Google Drive, make sure you install `Colaboratory` Add-ons, open the notebook with `Google Colaboratory`, and you are ready to go. Check if all dependencies are met by running the imports.ipynb notebook.
 
@@ -52,9 +52,9 @@ If you are up for a challenge, to run the notebook locally, follow instructions:
     /usr/local/Caskroom/miniforge/base/envs/py39_12/bin/python -m pip install pyspark 
     ```
 
-    To verify that you have installed `pyspark` and `delta-spark`, run notebook [imports](imports.ipynb) and make sure no error messages are displayed when importing the packages. 
+    To verify that you have installed `pyspark` and `delta-spark`, run notebook [imports](nb/imports.ipynb) and make sure no error messages are displayed when importing the packages. 
 
 - Windows [Reference](https://sparkbyexamples.com/pyspark/how-to-install-and-run-pyspark-on-windows/). 
 
 ## Background
-Please review the weekly narrative [here](https://www.notion.so/Week-5-Big-Data-and-AI-1782ced6eeb8435d8e0094513844ce4d)
+Please review the weekly narrative [here](https://www.notion.so/Week-5-Big-Data-and-AI-76bc0670bbe5431d90efab0d137716f3)
