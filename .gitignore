@@ -130,3 +130,6 @@ dmypy.json
 
 # Reddit credentials 
 secrets_reddit.py
+
+# Mac DS_Store
+.DS_Store
