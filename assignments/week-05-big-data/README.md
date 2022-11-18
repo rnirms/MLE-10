@@ -23,7 +23,7 @@ For a video demo how to set up Databricks Community Edition, [watch this short v
 Note: It is NOT the same as Free Trial. Free trial lasts 14 days and Databricks uses compute and storage resources in your account ( AWS / Azure / GCP ).
 
 ### Option II: Google CoLab
-If the first option takes too long, one alternative is to use Google CoLab. Following this [Medium article](https://colab.research.google.com/drive/1qP0y-ZVxFTlPUYBo_ZwRhq2p53Be5RSQ?usp=sharing) to the section **Get coding**. 
+If the first option takes too long, one alternative is to use Google CoLab. Following this [Medium article](https://colab.research.google.com/drive/1jU3IkSTKbB6iHcHr9JYbfp-W0zTRgFWt?usp=sharing) to the section **Get coding**. 
 
 Test it by running this [notebook](https://colab.research.google.com/drive/1jU3IkSTKbB6iHcHr9JYbfp-W0zTRgFWt?usp=sharing) in Google Colab.
 
