@@ -25,7 +25,7 @@ Note: It is NOT the same as Free Trial. Free trial lasts 14 days and Databricks 
 ### Option II: Google CoLab
 If the first option takes too long, one alternative is to use Google CoLab. Following this [Medium article](https://colab.research.google.com/drive/1jU3IkSTKbB6iHcHr9JYbfp-W0zTRgFWt?usp=sharing) to the section **Get coding**. 
 
-Test it by running this [notebook](https://colab.research.google.com/drive/1jU3IkSTKbB6iHcHr9JYbfp-W0zTRgFWt?usp=sharing) in Google Colab.
+Test it by running this [notebook](https://colab.research.google.com/drive/1qP0y-ZVxFTlPUYBo_ZwRhq2p53Be5RSQ?usp=sharing) in Google Colab.
 
 For the live session, upload the notebooks under nb folder to your Google Drive, make sure you install `Colaboratory` Add-ons, open the notebook with `Google Colaboratory`, and you are ready to go. Check if all dependencies are met by running the imports.ipynb notebook.
 
