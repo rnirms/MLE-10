@@ -1,0 +1,11 @@
+ipython==8.4.0
+matplotlib==3.5.2
+numpy==1.23.1
+pandas==1.4.3
+plotly==5.9.0
+scikit_learn==1.1.1
+seaborn==0.11.2
+shap
+streamlit==1.11.1
+tensorflow
+tpot
