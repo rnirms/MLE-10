@@ -441,7 +441,7 @@ Let's just output the forecast in JSON. Comment out the following lines in `pred
     --header "Content-Type: application/json" \
     --request POST \
     --data '{"ticker":"MSFT", "days":7}' \
-    http://35.90.247.255:8000/predict
+    http://35.91.102.180:8000/predict
     ```
 
     You shall see the predictions 🎉🎉🎉
