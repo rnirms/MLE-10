@@ -1,0 +1,13 @@
+{
+    "body": "{\"comments\": [\"hello world\"]}",
+    "resource": "/sentiment",
+    "path": "/sentiment",
+    "httpMethod": "POST",
+ 
+    "requestContext": {
+      "path": "/sentiment",
+      "resourcePath": "sentiment",
+      "httpMethod": "POST"
+    }
+  }
+  
